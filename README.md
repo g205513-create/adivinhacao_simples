@@ -49,8 +49,7 @@ Se eu quiser continuar mexendo nesse projeto, algumas ideias são:
 
 ## Feito com
 
-HTML, CSS e JavaScript puro, sem frameworks e sem bibliotecas.
+HTML, CSS e JavaScript puro.
 
 ---
 
-Feito com carinho e algumas boas tentativas de acerto. Se achou um bug ou tem uma sugestão, fique à vontade para mexer no código. 😄
